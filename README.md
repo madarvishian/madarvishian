@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mary
+- 👋 Hi, I’m a artificial intelligence and robotics M.Sc. student at SUT
 - 👀 I’m interested in machinelearning
 - 🌱 I’m currently a researcher
 - 💞️ I’m looking to collaborate on programming
