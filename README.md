@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mary
 - 👀 I’m interested in machinelearning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently a researcher
 - 💞️ I’m looking to collaborate on programming
 - 📫 
 
