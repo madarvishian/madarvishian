@@ -2,7 +2,7 @@
 - 👀 I’m interested in advanced machinelearning, XAI, GNNs
 - 🌱 I’m currently a researcher
 - 💞️ I’m looking to collaborate on programming
-- 📫 
+
 
 <!---
 madarvishian/madarvishian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
