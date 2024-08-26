@@ -1,7 +1,7 @@
 - 👋 Hi, I’m an artificial intelligence and robotics M.Sc. student at SUT
 - 👀 I’m interested in advanced machinelearning, XAI, GNNs
 - 🌱 I’m currently a researcher
-- 💞️ I’m looking to collaborate on programming
+- 💞️ I’m looking to collaborate on phd programs
 
 
 <!---
