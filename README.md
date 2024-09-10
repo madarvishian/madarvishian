@@ -1,4 +1,4 @@
-- 👋 Hi, I’m an artificial intelligence and robotics M.Sc. student at SUT
+- 👋 Hi, I’m an artificial intelligence and robotics M.Sc. student
 
 
 
