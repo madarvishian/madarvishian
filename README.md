@@ -1,4 +1,4 @@
-- 👋 Hi, I am Mary, M.Sc. of artificial intelligence and robotics. 🧑‍🎓
+- 👋 Hi, I am Maryam, M.Sc. of artificial intelligence and robotics. 🧑‍🎓
 - AI Researcher & Developer  🧑‍💻
 <!---
 madarvishian/madarvishian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
