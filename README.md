@@ -1,10 +1,18 @@
 - 👋 Hi, I am Maryam, M.Sc. of artificial intelligence and robotics. 🧑‍🎓
 - Languages and Tools:
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/csharp.svg" alt="C#" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/java.svg" alt="Java" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/javascript.svg" alt="JavaScript" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/python.svg" alt="Python" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/sqlite.svg" alt="SQLite" width="30" height="30"/>
+![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![SQL Server](https://img.icons8.com/color/48/000000/sql-server.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![Pandas](https://img.icons8.com/color/48/000000/pandas.png)
+![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png)
+![Scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png)
+![Selenium](https://img.icons8.com/color/48/000000/selenium.png)
+![SQLite](https://img.icons8.com/color/48/000000/sqlite.png)
+![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
+
 
 
 <!---
