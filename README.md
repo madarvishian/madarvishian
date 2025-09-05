@@ -1,16 +1,11 @@
 - 👋 Hi, I am Maryam, M.Sc. of artificial intelligence and robotics. 🧑‍🎓
 - Languages and Tools:
-![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
-![Git](https://img.icons8.com/color/48/000000/git.png)
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![sql](https://img.icons8.com/color/48/000000/sql-server.png)
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![Pandas](https://img.icons8.com/color/48/000000/pandas.png)
-![PyTorch](https://img.icons8.com/color/48/000000/pytorch.png)
-![Scikit-learn](https://img.icons8.com/color/48/000000/scikit-learn.png)
-![SQLite](https://img.icons8.com/color/48/000000/sqlite.png)
-![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 
